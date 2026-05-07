@@ -52,9 +52,6 @@ Each team member sets this to their own local path. If you place data/ inside th
 
 - After setting up environment (you are continuing on work):
    - If you cannot see (venv) and your name [it should be your name instead of (tutorial)] in terminal, like the image<br>
-   
-  ![image](https://github.com/hivan04/ml-finance/blob/tutorial/explanation_images/1.png)
-  <br>
 
    Do the following:
    ```
@@ -66,8 +63,6 @@ Each team member sets this to their own local path. If you place data/ inside th
 ## Updating your repository 
 2) To make any changes/updates to your repository, do the following (**ensure you have saved the file(s) you want to upload**) 
 **Make sure you are in your branch**<br>
-
-![image](https://github.com/hivan04/ml-finance/blob/tutorial/explanation_images/2.png)<br>
 
 *You can check yourself by running the following (you should see an * next to your name if you are in your branch)*
    ```

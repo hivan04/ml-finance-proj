@@ -16,9 +16,6 @@
 - 环境设置完成后（您正在继续工作）：
     - 如果您在终端中看不到 (venv) 和您的名字（应该是您的名字而不是 (tutorial)），就像图片中显示的那样。
 
-     ![image](https://github.com/hivan04/ml-finance/blob/tutorial/explanation_images/1.png)
-  <br>
-
    Do the following:
    ```
    git switch your_name
@@ -30,8 +27,6 @@
 ## 正在更新您的存储库
 2) 要对您的代码仓库进行任何更改/更新，请执行以下操作（**请确保您已保存要上传的文件**）：
 **请确保您当前位于您的分支中**<br>
-
-![image](https://github.com/hivan04/ml-finance/blob/tutorial/explanation_images/2.png)<br>
 
 *You can check yourself by running the following (you should see an * next to your name if you are in your branch)*
    ```
