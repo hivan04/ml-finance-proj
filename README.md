@@ -1,32 +1,5 @@
 # ml-finance-proj
 
-# Repo Structure
-c2o/
-├── src/
-│   ├── step1_panel.py
-│   ├── step2_universe.py
-│   ├── step3_borrow.py
-│   ├── step4_alpha.py
-│   ├── step5_portfolio.py
-│   └── utils.py
-├── notebooks/
-├── run_all.py
-├── config.py
-├── config_local.py
-├── data/
-└── outputs/
-│
-├── notebooks/
-│   ├── 01_panel.ipynb
-│   ├── 02_universe.ipynb
-│   ├── 03_borrow.ipynb
-│   ├── 04_alpha.ipynb
-│   └── 05_portfolio.ipynb
-│
-├── outputs/             
-│
-└── data/              
-
 # Create config_local.py
 Create a file called config_local.py in the repo root (it is gitignored and never committed):
 python# config_local.py — personal machine config, do not commit
