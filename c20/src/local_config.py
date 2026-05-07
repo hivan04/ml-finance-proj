@@ -1,4 +1,3 @@
-from pathlib import Path 
+from pathlib import Path
 
-ROOT_W = Path("C:/Users/Ivan/Documents/GitHub/ml-finance-proj")
-# ROOT_M = Fill in later when working on mac 
+ROOT_W = Path(r"C:/Users/Ivan/Documents/GitHub/ml-finance-proj")
